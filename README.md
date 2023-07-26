@@ -42,9 +42,6 @@ The server will start running on http://localhost:3000.
 - `http://localhost:3000/sum-of-numbers`: Responds with the sum of all numbers from the input array.
 - `http://localhost:3000/sum-of-numbers-divisible-by-three`: Responds with the sum of all numbers from the input array that are divisible by three.
 
-## Contact
-
-For any questions related to this assessment or any other inquiries, please get in touch with our lead developer Izak Lipnik via email at izak.lipnik@gameart.net.
 
 Happy coding!
 
